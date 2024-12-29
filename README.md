@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer
 ------------------
 
-I am frontend developer who loves react!
+I am Software Developer Nerd  who loves to talks about "Tech" .
 
 * 🌍  I'm based in Bengaluru ,India
 * 🖥️  See my portfolio at [CodeWithAyush](http://ayushjs.vercel.app/)
 * ✉️  You can contact me at [1nr20is032.ayushraj@gmail.com](mailto:1nr20is032.ayushraj@gmail.com)
-* 🧠  I'm learning Next.js Nodejs and Express.js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am secretly the guardian angel of the knight.
 
